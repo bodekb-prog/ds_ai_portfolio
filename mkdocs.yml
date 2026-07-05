@@ -3,6 +3,9 @@ site_author: Bogusław Bałanda
 site_description: >-
     Portfolio moich projektów z Data Science i AI!
 
+repo_name: bodekb-prog/ds_ai_portfolio
+repo_url: https://github.com/bodekb-prog/ds_ai_portfolio/
+
 theme:
   name: material
 
