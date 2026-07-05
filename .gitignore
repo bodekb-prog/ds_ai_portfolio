@@ -1,0 +1,5 @@
+# To jest plik .gitignore
+site/
+*.pyc
+__pycache__/
+.env
