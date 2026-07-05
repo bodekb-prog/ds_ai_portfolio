@@ -1,0 +1,22 @@
+site_name: Moje projekty
+site_author: Bogusław Bałanda
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- Strona Główna: index.md
+- Obecny projekt:
+  - "Titanic": titanic/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
