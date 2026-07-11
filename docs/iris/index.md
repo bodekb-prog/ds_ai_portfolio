@@ -1,4 +1,4 @@
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# **Analiza Danych EDA Irysów: Eksploracja Domenowa**
 
 Prezentowana analiza to kompleksowe podejście do badania zbioru irysów przy użyciu metod eksploracji danych (EDA). Celem projektu jest identyfikacja wzorców oraz korelacji występujących w pomiarach botanicznych, co pozwala na precyzyjne odróżnienie poszczególnych gatunków. Zapraszamy do wnikliwej lektury wyników, które stanowią rzetelne źródło wiedzy o strukturze badanych danych.
 

@@ -1,4 +1,4 @@
-# Witaj na mojej stronie Portfolio
+# **Witaj na mojej stronie Portfolio**
 
 ![Opis](images/strona_glowna_01.jpg){width="100%"}
 

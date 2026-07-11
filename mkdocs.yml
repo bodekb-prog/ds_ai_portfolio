@@ -21,8 +21,10 @@ plugins:
 nav:
   - Strona Główna: index.md
   - Obecny projekt:
-      - "Analiza Półmaratonu Wrocławskiego": halfmarathon/index.md
+      - "Grupowanie Faktur – Inteligentny system grupowanie pozycji faktur": grupowanie_faktur/index.md
   - Poprzednie projekty:
+      - "Find Friends – Inteligentny system dopasowywania użytkowników": find_friends/index.md
+      - "Analiza Półmaratonu Wrocławskiego": halfmarathon/index.md
       - "Titanic": titanic/index.md
       - "Iris": iris/index.md
 
