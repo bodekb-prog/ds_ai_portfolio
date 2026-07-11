@@ -8,13 +8,23 @@ repo_url: https://github.com/bodekb-prog/ds_ai_portfolio/
 
 theme:
   name: material
+  features:
+    - content.action.view
+    - content.code.copy
+    - content.image.zoom
+
+plugins:
+  - search
+  - glightbox:
+      zoomable: true
 
 nav:
-- Strona Główna: index.md
-- Obecny projekt:
-  - "Titanic": titanic/index.md
-- Poprzednie projekty:
-  - "Iris": iris/index.md
+  - Strona Główna: index.md
+  - Obecny projekt:
+      - "Analiza Półmaratonu Wrocławskiego": halfmarathon/index.md
+  - Poprzednie projekty:
+      - "Titanic": titanic/index.md
+      - "Iris": iris/index.md
 
 markdown_extensions:
   - attr_list
